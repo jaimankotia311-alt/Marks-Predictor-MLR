@@ -1,7 +1,10 @@
 import streamlit as st
 
 # import joblib
-# model = joblib.load("student_performance.joblib")
+# from pathlib import Path
+
+# model_path = Path(__file__).parent / "student_performance.joblib"
+# model = joblib.load(model_path)
 
 # 2.85789445 * 6 + 1.01771889 * 89 + -0.66491083 * 1 + 0.4810669 * 7 +  0.19533686 * 7 -33.42990290279858
 
