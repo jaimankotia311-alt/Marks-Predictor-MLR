@@ -33,8 +33,8 @@ sleep_hour = st.text_input(label = "Sleep hours", placeholder = "How many hours 
 sample_question = st.text_input(label = "Sample question paper", placeholder = "How many sample question paper you solved") 
 
 dict =  {
-    "Yes" : 1,
-    "No" : 0
+    "Yes" : 0,
+    "No" : 1
 }
 
 if st.button("CHECK SCORE"):
