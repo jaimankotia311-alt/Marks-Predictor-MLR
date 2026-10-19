@@ -1,4 +1,4 @@
-# Car Price Prediction
+# Performance Prediction
 
 🚀 **[Live Demo — Try the App Here](https://marks-predictor-mlr-araoe55inqmqyb4f3cdnt8.streamlit.app/)**
 
