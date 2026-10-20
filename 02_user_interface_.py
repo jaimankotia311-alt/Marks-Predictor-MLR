@@ -16,8 +16,7 @@ m4 = 0.4810669
 m5 = 0.19533686
 c  = (-33.42990290279858)
 
-
-
+st.markdown("Predict student performance using Multiple Linear Regression by entering study hours, previous scores, sleep hours, extracurricular activities, and practice question papers to estimate the expected Performance Index.")
 name = st.text_input(label = "Student name", placeholder = "Enter your name")
 
 class_name = st.text_input(label = "Class name", placeholder = "Enter your class")
